@@ -5,7 +5,7 @@ class Dog
     @this_dogs_name = name
   end
 
-
+  #define name method, which retrieves Dog instane's name
   def name
     @this_dogs_name 
   end
